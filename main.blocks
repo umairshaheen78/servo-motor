@@ -1,7 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="I{RvZ!B:qyH%/)c)K(hx" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="Y#--_7+.tFpkD+4U6O2H"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="h+6NgBJfI,1mc+l[f~^g" x="-114" y="43"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="Y#--_7+.tFpkD+4U6O2H"><field name="LEDS">`
         . . . . . 
         . . . . . 
         . . . . # 
         . # . # . 
         . . # . .
-        `</field><next><block type="device_set_servo_pin" id=")o]}:a(}xg.Akz(lg+ce"><field name="name">AnalogPin.P0</field><value name="value"><shadow type="math_number_minmax" id="kmmuS@ox950s-!GZi=2f"><mutation min="0" max="180" label="Value" precision="0"></mutation><field name="SLIDER">90</field></shadow></value></block></next></block></statement></block></xml>
+        `</field><next><block type="device_clear_display" id="HQJ]{1P#ieOd4:]5Tb6Z"><next><block type="device_set_servo_pin" id=")o]}:a(}xg.Akz(lg+ce"><field name="name">AnalogPin.P0</field><value name="value"><shadow type="math_number_minmax" id="kmmuS@ox950s-!GZi=2f"><mutation min="0" max="180" label="Value" precision="0"></mutation><field name="SLIDER">90</field></shadow></value></block></next></block></next></block></statement></block></xml>
